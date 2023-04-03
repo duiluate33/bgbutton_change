@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--항목추가 -->
+    <item
+        android:id="@+id/bg_linear_green"
+        android:title="배경(초록)"/>
+    <item
+        android:id="@+id/bg_linear_blue"
+        android:title="배경(파랑)"/>
+    <item
+        android:id="@+id/bg_linear_purple"
+        android:title="배경(보라)"/>
+
+</menu>
